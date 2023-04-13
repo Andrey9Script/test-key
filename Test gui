@@ -1,7 +1,7 @@
-_G.Key = "" --สามารถใส่คีย์ได้
+_G.Key = "" 
 _G.UIColor = Color3.fromRGB(255,255,255)
 local Logo = ("12986011583")
-_G.NameHub = "FTS X HUB"
+_G.NameHub = "ROBOT X HUB"
 
 local Loading = Instance.new("ScreenGui")
 local Blur = Instance.new("Frame")
@@ -89,8 +89,7 @@ local SysemKeyyy = game.CoreGui:FindFirstChild("Loading")
 Main:TweenSize(UDim2.new(0,0,0,0),"Out","Quad",0.4,true)
 wait(0.4)
 SysemKeyyy:Destroy()
---loadstring(game:HttpGet(('https://raw.githubusercontent.com/Tulam2000/FTS-HUB/main/lol')))()-- You Script' 
-end)
+--https://raw.githubusercontent.com/Andrey9Script/test-key/main/Gui%20test%20NPJ%20HUB
 
 UICorner2.CornerRadius = UDim.new(0, 10)
 UICorner2.Parent = Start
