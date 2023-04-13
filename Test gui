@@ -1,7 +1,7 @@
 _G.Key = "" 
 _G.UIColor = Color3.fromRGB(255,255,255)
 local Logo = ("12986011583")
-_G.NameHub = "ROBOT X HUB"
+_G.NameHub = "FTS X HUB"
 
 local Loading = Instance.new("ScreenGui")
 local Blur = Instance.new("Frame")
